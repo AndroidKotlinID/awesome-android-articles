@@ -117,6 +117,8 @@ See [how to contribue](#how-to-contribute)
 - [Realm Academy](https://academy.realm.io/section/android)
 - [Android Arsenal](https://android-arsenal.com/)
 - [Guides @ Codepath](https://guides.codepath.com/android)
+- [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
+- [Android Weekly](http://androidweekly.net/)
 
 ---
 
