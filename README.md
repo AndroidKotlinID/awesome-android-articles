@@ -4,7 +4,7 @@
 
 Your contribution is very encouraged and will highly appreciated! Every commit matters! 💪💪
 
-See [how to contribue](#how-to-contribute)
+See [how to contribute](#how-to-contribute)
 
 ---
 
@@ -59,7 +59,7 @@ See [how to contribue](#how-to-contribute)
 ## Networking
 
 - [Retrofit Getting Started](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) 🇬🇧
-- [Mengeksekusi CRUP REST API dengan Retrofit 2](https://farizdotid.com/tutorial-crud-rest-api-menggunakan-retrofit-2-android/) 🇮🇩
+- [Mengeksekusi CRUD REST API dengan Retrofit 2](https://farizdotid.com/tutorial-crud-rest-api-menggunakan-retrofit-2-android/) 🇮🇩
 - [Certificate public key pinninng android retrofit 2](https://medium.com/@sreekumar_av/certificate-public-key-pinning-in-android-using-retrofit-2-0-74140800025b) 🇬🇧
 
 ## User Experience
@@ -84,6 +84,7 @@ See [how to contribue](#how-to-contribute)
 - [Grokking RxJava 1.x Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) 🇬🇧
 - [Grokking RxJava 1.x Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/) 🇬🇧
 - [SOLID Android Analytics with RxJava2](https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9)
+- [RxJava Error Handling](https://rongi.github.io/kotlin-blog/rxjava/2017/09/25/breadcrumbs-rxjava-error-handling.html) 🇬🇧
 - [Keeping the Daggers Sharp](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f) 🇬🇧
 
 ## Dependency Injection
